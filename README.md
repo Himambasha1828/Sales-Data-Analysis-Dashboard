@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Sales Data Analysis and Dashboard Creation
 
@@ -104,3 +105,6 @@ This end-to-end project helped develop hands-on experience in:
 
 
 
+=======
+# Sales-Data-Analysis-Dashboard
+>>>>>>> 424f5e06729bc36fc9bd0cfab8f0f2ef44c092eb
